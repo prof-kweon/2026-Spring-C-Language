@@ -1,1 +1,9 @@
+#include <stdio.h>
 
+int main() {
+    printf("Arina Rybachuk\n");
+    printf("202412387\n");
+    printf("Global Convergence Management\n");
+    printf("I know two programming languages\n");
+    return 0;
+}
